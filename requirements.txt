@@ -1,0 +1,1 @@
+echo "Django>=4.0\ncoverage" > requirements.txt
